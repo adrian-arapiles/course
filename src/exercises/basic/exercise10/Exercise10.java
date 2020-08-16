@@ -1,4 +1,4 @@
-package basic.exercise10;
+package exercises.basic.exercise10;
 
 import java.util.Scanner;
 
@@ -23,7 +23,7 @@ public class Exercise10 {
         for (int i = 1; i <= studentsNumber; i++) {
             System.out.print("Score of student " + i + ": ");
             score = scanner.nextDouble();
-            sum = sum + score; // sum score to accumulator for average
+            sum += score; // sum score to accumulator for average
             if (score > major) {  // compare score with actual major and minor and update if change
                 major = score;
             }

@@ -1,4 +1,4 @@
-package basic.exercise1;
+package exercises.basic.exercise1;
 
 /**
  * Given 2 numbers, show the sum, subtraction, multiplication and division of that numbers

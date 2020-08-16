@@ -1,4 +1,4 @@
-package basic.exercise6;
+package exercises.basic.exercise6;
 
 /**
  * Show numbers from 1 to 10

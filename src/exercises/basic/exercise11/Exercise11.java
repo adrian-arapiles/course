@@ -1,4 +1,4 @@
-package basic.exercise11;
+package exercises.basic.exercise11;
 
 import java.util.Scanner;
 
@@ -8,9 +8,8 @@ import java.util.Scanner;
 public class Exercise11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int score;
         System.out.println("Introduce a score");
-        score = scanner.nextInt();
+        int score = scanner.nextInt();
         switch (score) {
             case 0:
             case 1:

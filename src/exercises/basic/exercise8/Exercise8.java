@@ -1,4 +1,4 @@
-package basic.exercise8;
+package exercises.basic.exercise8;
 
 /**
  * Show numbers from 1 to 20 with while
