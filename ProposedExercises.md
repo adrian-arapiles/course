@@ -26,3 +26,16 @@ Given a number, show their multiplication table.
 Ask a number representation of day of week and write what day is.
 
 PD. Check exercise 11
+
+### Exercise 7
+Given a text (String) count the total occurrence of vowels
+
+PD. See exercise 12. They are 5 vowels, so maybe need iterate 5 times the same code.
+PD2. You could try iterate and array of vowels.
+
+### Exercise 8
+Ask number of students, then ask score of them and calculate the average score. 
+Then show which student have score major than average.
+
+PD. You need to use array, at least iterate it 2 times.
+PD2. You can check exercise 13.
