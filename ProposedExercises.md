@@ -39,3 +39,11 @@ Then show which student have score major than average.
 
 PD. You need to use array, at least iterate it 2 times.
 PD2. You can check exercise 13.
+
+## INTERMEDIATE
+### Exercise 1
+Ask name by console, and then print a greeting "Hello name!" calling in a method
+
+### Exercise 2
+Ask two numbers, the height and base of rectangle, then calculate the area. The area must be calculated in a method.
+
